@@ -56,6 +56,9 @@
     <Compile Include="Assets\XRPlatformControllerSetup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\BrokenVector\LowPolyTreePack\README.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <Reference Include="UnityEngine">
       <HintPath>C:\Users\Victo\Desktop\Unity Stuff\2021.3.17f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
