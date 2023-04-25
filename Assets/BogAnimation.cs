@@ -21,7 +21,7 @@ public class BogAnimation : MonoBehaviour
         }
         else
         {
-            anim.Play("close");
+            anim.Play("Close");
         }
     }
 }
